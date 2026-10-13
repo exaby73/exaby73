@@ -1,28 +1,33 @@
-# 👋 Hi, I'm Nabeel
+# Nabeel Parkar
 
-I am a **Flutter/Dart developer** with a strong focus on **pure Dart** and backend development.  
-I also specialize in modern web technologies, including **React**, **Node.js**, and **Svelte**, while leveraging **TypeScript** for clean, maintainable code.
+Senior backend and full-stack engineer with 6+ years of experience, based in Mumbai (IST). I work UK and EU hours. I am co-founder and CEO of [Hexsis](https://hexsis.com).
 
----
+## What I do
 
-## 🛠️ Technical Skills
-- **Languages**: Dart, TypeScript, JavaScript
-- **Frameworks**: Flutter, Node.js, React, Svelte
-- **Tools & Platforms**: Git, Docker
+I take complex systems from architecture through to production. That means backend and API design, cloud infrastructure and DevOps, data-heavy platforms, and the web and mobile products on top of them. Some of the work is greenfield. Some of it is an existing codebase that has to be scaled, finished, or made stable enough to run, including half-finished or AI-generated code. I use AI coding agents in that work, and I still review architecture and ship the critical features myself.
 
----
+## Currently
 
-## 🌐 Connect With Me
-- 🐦 **Twitter**: [@exabyt3_](https://twitter.com/exabyt3_)  
-- 💼 **LinkedIn**: [@exabyt3](https://linkedin.com/in/exabyt3)
+**[Hexsis](https://hexsis.com).** Co-founder and CEO. I lead strategy, client partnerships, and engineering delivery for a distributed team, and I still design and build the systems.
 
----
+Hexsis is a software engineering studio for teams with hard problems. We design, build and run production systems end to end: backend and API architecture, cloud infrastructure and DevOps, data-heavy platforms, and web and mobile products. We take on complex engineering work, from greenfield builds to rescuing and scaling existing codebases, and stay on for long-term support and SLAs.
 
-## 📈 GitHub Stats
+**[Ex3](https://ex3.dev).** I run 1:1 software-engineering training.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exaby73&show_icons=true&hide=prs,issues&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exaby73&layout=compact&theme=radical)
+## Open source
 
----
+I have worked on the official Firebase SDKs for Flutter ([FlutterFire](https://github.com/firebase/flutterfire)), [React Native](https://github.com/invertase/react-native-firebase), and [Python Cloud Functions](https://github.com/firebase/firebase-functions-python), including a FirebaseUI rewrite in Web Components. I also contributed to [Serverpod](https://github.com/serverpod/serverpod), an open-source Dart backend framework.
 
-⭐️ **Feel free to explore and star my repositories!**
+Libraries I maintain:
+
+- [Arcade](https://github.com/dartarcade/arcade), a modular Dart backend framework with Redis, S3, and OpenAPI integrations
+- [Luthor](https://github.com/exaby73/luthor), schema validation for Dart
+- [Superclass](https://github.com/exaby73/superclass), TypeScript-style utility types in Dart
+- [dart_neo4j](https://github.com/exaby73/dart_neo4j), the first Dart driver for Neo4j, implementing the Bolt and PackStream protocols
+- The [Neo4j PHP client](https://github.com/neo4j-php/neo4j-php-client), the [Symfony bundle](https://github.com/neo4j-php/neo4j-symfony), and the [Laravel integration](https://github.com/neo4j-php/neo4j-laravel)
+
+## Get in touch
+
+- [X](https://x.com/exabyt3_)
+- [LinkedIn](https://www.linkedin.com/in/exabyt3)
+- [Free 30-minute call](https://calendly.com/nabeel-hexsis/30min)
