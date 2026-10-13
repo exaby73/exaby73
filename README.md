@@ -14,19 +14,9 @@ Hexsis is a software engineering studio for teams with hard problems. We design,
 
 **[Ex3](https://ex3.dev).** I run 1:1 software-engineering training.
 
-## Tech
-
-Dart and Flutter, TypeScript, Node.js, React, and Python.
-
-PostgreSQL, MySQL, MongoDB, Neo4j, and Firestore.
-
-GCP, Firebase, Docker, CI/CD, and Linux.
-
 ## Open source
 
-From 2023 to 2025 I worked at Invertase, on contract to Google, on the official Firebase SDKs for Flutter ([FlutterFire](https://github.com/firebase/flutterfire)), [React Native](https://github.com/invertase/react-native-firebase), and [Python Cloud Functions](https://github.com/firebase/firebase-functions-python). I led a FirebaseUI rewrite in Web Components, and worked with Google engineers across Firebase, GCP, and Genkit. In 2022–2023 I handled Flutter and FlutterFire support on Google’s Flutter contract at Nevercode.
-
-I also contributed to [Serverpod](https://github.com/serverpod/serverpod), an open-source Dart backend framework.
+I have worked on the official Firebase SDKs for Flutter ([FlutterFire](https://github.com/firebase/flutterfire)), [React Native](https://github.com/invertase/react-native-firebase), and [Python Cloud Functions](https://github.com/firebase/firebase-functions-python), including a FirebaseUI rewrite in Web Components. I also contributed to [Serverpod](https://github.com/serverpod/serverpod), an open-source Dart backend framework.
 
 Libraries I maintain:
 
