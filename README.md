@@ -6,15 +6,13 @@ Senior backend and full-stack engineer with 6+ years of experience, based in Mum
 
 I take complex systems from architecture through to production. That means backend and API design, cloud infrastructure and DevOps, data-heavy platforms, and the web and mobile products on top of them. Some of the work is greenfield. Some of it is an existing codebase that has to be scaled, finished, or made stable enough to run, including half-finished or AI-generated code. I use AI coding agents in that work, and I still review architecture and ship the critical features myself.
 
-Before Hexsis I built production Flutter and Node.js systems. At BeanstalkEdu I replaced three Express services with a NestJS monolith and shipped Flutter apps for admissions, leads, and CRM. At Darwin I led a team of five, shipping an online lottery platform and a chat app with voice and video.
-
 ## Currently
 
 **[Hexsis](https://hexsis.com).** Co-founder and CEO. I lead strategy, client partnerships, and engineering delivery for a distributed team, and I still design and build the systems.
 
 Hexsis is a software engineering studio for teams with hard problems. We design, build and run production systems end to end: backend and API architecture, cloud infrastructure and DevOps, data-heavy platforms, and web and mobile products. We take on complex engineering work, from greenfield builds to rescuing and scaling existing codebases, and stay on for long-term support and SLAs.
 
-**[Ex3](https://ex3.dev).** I run 1:1 software-engineering training for adults.
+**[Ex3](https://ex3.dev).** I run 1:1 software-engineering training.
 
 ## Tech
 
