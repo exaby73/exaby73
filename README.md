@@ -1,28 +1,27 @@
-# 👋 Hi, I'm Nabeel
+# Nabeel Parkar
 
-I am a **Flutter/Dart developer** with a strong focus on **pure Dart** and backend development.  
-I also specialize in modern web technologies, including **React**, **Node.js**, and **Svelte**, while leveraging **TypeScript** for clean, maintainable code.
+Senior backend and full-stack engineer with about 7 years of experience, based in India (IST). I work UK and EU hours, and I am looking for senior backend or full-stack contract and remote roles.
 
----
+## What I do
 
-## 🛠️ Technical Skills
-- **Languages**: Dart, TypeScript, JavaScript
-- **Frameworks**: Flutter, Node.js, React, Svelte
-- **Tools & Platforms**: Git, Docker
+I take over half-finished or AI-generated codebases and make them stable and shippable. I work well with AI coding agents.
 
----
+## Currently
 
-## 🌐 Connect With Me
-- 🐦 **Twitter**: [@exabyt3_](https://twitter.com/exabyt3_)  
-- 💼 **LinkedIn**: [@exabyt3](https://linkedin.com/in/exabyt3)
+- Co-founder and CEO of [Hexsis](https://hexsis.com), a software studio building products for UK clients.
+- I run [Ex3](https://ex3.dev), 1:1 software-engineering training for adults.
+- Open to part-time and contract work.
 
----
+## Tech
 
-## 📈 GitHub Stats
+Dart (Serverpod, Flutter), Node.js, and TypeScript. I also use React, Svelte, JavaScript, and Docker.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exaby73&show_icons=true&hide=prs,issues&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exaby73&layout=compact&theme=radical)
+## Open source
 
----
+Former contributor to [Serverpod](https://github.com/serverpod/serverpod), an open-source Dart backend framework. 52 pull requests merged between June 2025 and March 2026.
 
-⭐️ **Feel free to explore and star my repositories!**
+## Get in touch
+
+- [X](https://x.com/exabyt3_)
+- [LinkedIn](https://www.linkedin.com/in/exabyt3)
+- [Free 30-minute call](https://calendly.com/nabeel-hexsis/30min)
